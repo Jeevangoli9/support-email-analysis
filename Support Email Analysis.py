@@ -1,23 +1,9 @@
-# Directory structure (copy these into your repo)
-# support-email-analysis/
-# ├── data/
-# │   └── Sample_Support_Emails_Dataset.csv
-# ├── src/
-# │   └── email_analysis.py
-# ├── requirements.txt
-# └── README.md
 
-# ============================
-# requirements.txt
-# ============================
 pandas
 scikit-learn
 nltk
 matplotlib
 
-# ============================
-# README.md
-# ============================
 """
 # Support Email Analysis
 
